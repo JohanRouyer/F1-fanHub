@@ -188,6 +188,10 @@ a:active {
     margin-top: 10px;
     height: 25px;
 }
+.teams-column img{
+    margin-top: 10px;
+    height: 50px;
+}
 
 .under-driver li ,
 .under-teams li{
